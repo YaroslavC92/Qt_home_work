@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>myh.txt</file>
+    </qresource>
+</RCC>
